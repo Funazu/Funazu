@@ -22,7 +22,7 @@ Hey 👋, This is Fauzun Naja
  </p>
  
 <h1 align="center">
-   The framework I learned
+   Framework
 </h1>
 
 <p align="center">
