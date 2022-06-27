@@ -3,10 +3,6 @@ Hey 👋, This is Fauzun Naja
 </h1>
 
 <p align="center">
-  only humans like Park Ju Hyun and Han So hee
-</p>
-
-<p align="center">
   <a href="mailto:bangnaja300@gmail.com">
   <img src="https://img.shields.io/badge/FauzunNaja-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
