@@ -11,7 +11,7 @@ const fauzunNaja = {
     name:       "Fauzun Naja",
     address:    "Kudus, Indonesia",
     hobby:      "Listening to music" 
-}
+};
 ```
 
 <details>
